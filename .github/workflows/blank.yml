@@ -1,0 +1,11 @@
+<model-viewer
+id="model-viewer"
+src="./GLB_strand.glb"
+ios-src=„./USDZ_Strand.usdz"
+alt="A 3D model"
+shadow-intensity="1"
+camera-controls
+auto-rotate
+ar
+interactions-prompt="auto"
+quick-look-browsers="safari chrome">
